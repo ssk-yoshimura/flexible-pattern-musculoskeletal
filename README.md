@@ -1,5 +1,12 @@
-# Data for:
+# Data Repository for:
+
 Accelerating Musculoskeletal Robotics through Parametric Design and 3D-Printed Flexible Structures
+
+Authors:
+Shunnosuke Yoshimura, Kento Kawaharazuka, Kei Okada
+
+Version:
+v1.0 (dataset frozen for journal peer review)
 
 ## Overview
 
